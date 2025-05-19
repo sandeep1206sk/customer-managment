@@ -4,7 +4,7 @@
 @section('content')
 
 <div class="">
-    <h2 class="mb-4 text-primary"><i class="fas fa-users"></i> Customer List</h2>
+    <h2 class="mb-4 text-primary"><i class="fas fa-users"></i> Jagrook Customer List</h2>
     <div class="row mb-3">
         <div class="col-md-4">
             <label for="start_date" class="form-label fw-bold">Start Date:</label>
