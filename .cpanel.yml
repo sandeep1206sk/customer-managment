@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ajayraju/public_html/
+    - /bin/cp * $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
